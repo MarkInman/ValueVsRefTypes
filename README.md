@@ -1,6 +1,6 @@
 # C# Value vs Reference Types Explained
 
-This repository contains code examples and explanations related to the concept of value types and reference types in C#. The associated YouTube video can be found [here]([link_to_your_youtube_video](https://www.youtube.com/watch?v=95SkyJe3Fe0&t=1s)).
+This repository contains code examples and explanations related to the concept of value types and reference types in C#. The associated YouTube video can be found [here](https://www.youtube.com/watch?v=95SkyJe3Fe0&t=1s).
 
 ## Overview
 
